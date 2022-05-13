@@ -1,2 +1,2 @@
-# sistema-restaurante
-Sistema de Restaurante feito com a Linguagem de Programação em C
+# Restaurant System
+Restaurant System made with C Programming Language
